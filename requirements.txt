@@ -1,0 +1,4 @@
+numpy
+scikit-learn
+# Optional: dense and hybrid retrieval (python evaluate.py --compare-retrievers)
+# sentence-transformers
